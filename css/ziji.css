@@ -1,0 +1,15 @@
+.down{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 20%;
+}
+
+.down img{
+    width: 288px;
+    height: 240px;
+    margin-left: 20%;
+    margin-bottom: 5%;
+    border: 10px solid #fff;
+}
